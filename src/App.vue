@@ -1,6 +1,7 @@
 <template>
   <div>
     <BModal
+      centered
       ref="modal"
     >
       <input />
